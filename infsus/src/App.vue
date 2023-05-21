@@ -1,23 +1,31 @@
-<script setup>
-import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+<script>
+import HomeComponent from './components/HomeComponent.vue';
+import Stanice from './components/Stanice.vue';
+
+export default {
+  name: 'App',
+  components: {
+    Stanice,
+    HomeComponent
+  },
+  async created() {
+    this.data = await fetch('http://localhost:5000/stanice')
+      .then(response => response.json())
+      .then(data => {
+        return data;
+      });
+  }
+}
+
+
+
+
+
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
-    </div>
-  </header>
-
-  <RouterView />
+  <HomeComponent />
+  <Stanice :stanice="data" />
 </template>
 
 <style scoped>

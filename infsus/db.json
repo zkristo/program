@@ -1,0 +1,101 @@
+{
+    "rute": [
+      {
+        "id": 1,
+        "naziv": "ZAPADNI KOLODVOR - BORONGAJ",
+        "admin": "Admin1",
+        "stanice": ["Zapadni kolodvor", "Trg dr. F. Tuđmana", "Britanski trg", "Frankopanska", "Trg bana J. Jelačića", "Trg hrvatskih velikana", "Trg žrtava fašizma", "Šubićeva", "Tuškanova", "Heinzelova", "Šulekova", "Harambašićeva", "Svetice", "Borongaj"]
+      },
+      {
+        "id": 2,
+        "naziv": "ČRNOMEREC - SAVIŠĆE",
+        "admin": "Admin2",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
+      },
+      {
+        "id": 3,
+        "naziv": "LJUBLJANICA - SAVIŠĆE",
+        "admin": "Admin3"
+      },
+      {
+        "id": 4,
+        "naziv": "SAVSKI MOST - DUBEC",
+        "admin": "Admin4"
+      }
+      ,{
+        "id": 5,
+        "naziv": "PREČKO - PARK MAKSIMIR",
+        "admin": "Admin1"
+      },
+      {
+        "id": 6,
+        "naziv": "ČRNOMEREC - SOPOT",
+        "admin": "Admin2"
+      },
+      {
+        "id": 7,
+        "naziv": "ARENA ZAGREB - DUBRAVA",
+        "admin": "Admin3"
+      },
+      {
+        "id": 8,
+        "naziv": "MIHALJEVAC - ZAPRUĐE",
+        "admin": "Admin4"
+      },
+      {
+        "id": 9,
+        "naziv": "LJUBLJANICA - BORONGAJ",
+        "admin": "Admin1"
+      },
+      {
+        "id": 11,
+        "naziv": "ČRNOMEREC - DUBEC",
+        "admin": "Admin2"
+      },
+      {
+        "id": 12,
+        "naziv": "LJUBLJANICA - DUBRAVA",
+        "admin": "Admin3"
+      },
+      {
+        "id": 13,
+        "naziv": "ŽITNJAK - KVATERNIKOV TRG",
+        "admin": "Admin4"
+      },
+      {
+        "id": 14,
+        "naziv": "MIHALJEVAC - SAVSKI MOST",
+        "admin": "Admin1"
+      },
+      {
+        "id": 15,
+        "naziv": "MIHALJEVAC - GRAČANSKO DOLJE",
+        "admin": "Admin2"
+      },
+      {
+        "id": 17,
+        "naziv": "PREČKO - BORONGAJ",
+        "admin": "Admin3"
+      }
+    ],
+
+    "admins": [
+      {
+        "username": "Admin1",
+        "password": "1234"
+      },
+      {
+        "username": "Admin2",
+        "password": "5678"
+      },
+      {
+        "username": "Admin3",
+        "password": "9101"
+      },
+      {
+        "username": "Admin4",
+        "password": "1121"
+      }
+    ]
+  }
