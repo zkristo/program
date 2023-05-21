@@ -16,67 +16,107 @@
       {
         "id": 3,
         "naziv": "LJUBLJANICA - SAVIŠĆE",
-        "admin": "Admin3"
+        "admin": "Admin3",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 4,
         "naziv": "SAVSKI MOST - DUBEC",
-        "admin": "Admin4"
+        "admin": "Admin4",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       }
       ,{
         "id": 5,
         "naziv": "PREČKO - PARK MAKSIMIR",
-        "admin": "Admin1"
+        "admin": "Admin1",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 6,
         "naziv": "ČRNOMEREC - SOPOT",
-        "admin": "Admin2"
+        "admin": "Admin2",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 7,
         "naziv": "ARENA ZAGREB - DUBRAVA",
-        "admin": "Admin3"
+        "admin": "Admin3",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 8,
         "naziv": "MIHALJEVAC - ZAPRUĐE",
-        "admin": "Admin4"
+        "admin": "Admin4",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 9,
         "naziv": "LJUBLJANICA - BORONGAJ",
-        "admin": "Admin1"
+        "admin": "Admin1",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
+      },
+      {
+        "id": 10,
+        "naziv": "LJUBLJANICA - BORONGAJ",
+        "admin": "Admin1",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 11,
         "naziv": "ČRNOMEREC - DUBEC",
-        "admin": "Admin2"
+        "admin": "Admin2",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 12,
         "naziv": "LJUBLJANICA - DUBRAVA",
-        "admin": "Admin3"
+        "admin": "Admin3",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 13,
         "naziv": "ŽITNJAK - KVATERNIKOV TRG",
-        "admin": "Admin4"
+        "admin": "Admin4",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 14,
         "naziv": "MIHALJEVAC - SAVSKI MOST",
-        "admin": "Admin1"
+        "admin": "Admin1",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 15,
         "naziv": "MIHALJEVAC - GRAČANSKO DOLJE",
-        "admin": "Admin2"
+        "admin": "Admin2",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
+      },
+      {
+        "id": 16,
+        "naziv": "PREČKO - BORONGAJ",
+        "admin": "Admin3",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       },
       {
         "id": 17,
         "naziv": "PREČKO - BORONGAJ",
-        "admin": "Admin3"
+        "admin": "Admin3",
+        "stanice": ["Črnomerec", "Sveti Duh", "Mandaličina", "Slovenska", "Trg dr. F. Tuđmana", "Talovčeva", "Adžijina", "Vodnikova", "Botanički vrt", "Glavni kolodvor", "Branimirova", "Branimirova tržnica", "Autobusni kolodvor", "Držićeva", "Olipska", "Radnička", "Heinzelova", "Donje Svetice", "Ivanićgradska", "Ferenščica", "Getaldićeva", "Čavićeva", "Žitnjak", "Elka", "Munja", "Zagreb. transporti", "Savišće"]
+
       }
     ],
 

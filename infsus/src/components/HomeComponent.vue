@@ -1,12 +1,17 @@
 <script>
 export default {
     name: "HomeComponent",
+    data() {
+        return {
+            data: []
+        }
+    },
 }
+
 </script>
 
 <template>
     <body>
-
         <button type="button">Prethodna ruta</button>
         <button type="button">Sljedeca ruta</button>
 
